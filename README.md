@@ -1,4 +1,4 @@
-**Scraping all Restaurant Listings from TripAdvisor for a given city using Python :**
+**##Scraping all Restaurant Listings from TripAdvisor for a given city using Python :**
 
 * Scraped Restaurant Data for all the restaurants listed in TripAdvisor for a given city using Python's, BeautifulSoup.
 * Input control variables are geo-code and city name
