@@ -6,7 +6,9 @@
 
 **Link to the website scraped: [Link](https://www.tripadvisor.in/Restaurants-g187323-Berlin.html)**
 
-**Check out my blogs on Medium: [Blog](https://medium.com/@anshika.nigam)**
+**Check out my Data Science related blogs on Medium: [Blog](https://medium.com/@anshika.nigam)**
+
+
 
 
 
